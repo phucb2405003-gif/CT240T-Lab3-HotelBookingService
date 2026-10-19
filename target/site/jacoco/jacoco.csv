@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+lab3-unit-testing,com.ctu.exception,PaymentFailedException,0,4,0,0,0,2,0,1,0,1
+lab3-unit-testing,com.ctu.exception,RoomNotAvailableException,0,4,0,0,0,2,0,1,0,1
+lab3-unit-testing,com.ctu.service,DiscountCalculator,0,28,0,6,0,4,0,5,0,2
+lab3-unit-testing,com.ctu.service,UserService,0,51,0,10,0,13,0,7,0,2
+lab3-unit-testing,com.ctu.service,BookingService,0,82,0,12,0,17,0,9,0,3
+lab3-unit-testing,com.ctu.model,Room,3,22,0,0,1,9,1,4,1,4
+lab3-unit-testing,com.ctu.model,BookingReceipt,0,21,0,0,0,8,0,4,0,4
+lab3-unit-testing,com.ctu.model,User,6,15,0,0,2,6,2,2,2,2
